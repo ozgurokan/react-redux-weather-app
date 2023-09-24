@@ -13,7 +13,7 @@
 Tasarımı dilediğiniz gibi yapabilirsiniz.
 -----
 
-Demo için [tıklayın]().
+Demo için [tıklayın](https://celadon-wisp-5a0c20.netlify.app).
 
 ---
 #### - REDUX
