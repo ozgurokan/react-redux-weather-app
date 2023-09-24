@@ -1,0 +1,39 @@
+:root {
+    /* HEADER */
+    --header_bg :  rgb(215, 214, 214);
+    --header_shadow : rgba(0, 0, 0, 0.22);
+    /* CONTENT */
+    --body_bg : white;
+    --body_color : #222;
+    --link_color : navy;
+    /* MAİN CARD */
+    --main-card-bg :  rgb(215, 214, 214);
+    --main-card-color : #222;
+    /* DAY CARD BORDER */
+    --day-card-border : black;
+    /* INPUT */
+    --option-bg: rgb(215, 214, 214);
+    --option-color : #222;
+    --select-bg: rgb(215, 214, 214);
+    --select-color : #222;
+}
+
+[data-theme = "dark"]{
+    /* HEADER */
+    --header_bg : #000000;
+    --header_shadow : #0000005a;
+    /* CONTENT */
+    --body_bg : #343335fd;
+    --body_color : #fff;
+    --link_color : blue;
+    /* MAİN CARD */
+    --main-card-bg : #0000005a;
+    --main-card-color : white;
+    /* DAY CARD BORDER */
+    --day-card-border : white;
+    /* INPUT */
+    --option-bg: #000000bf;
+    --option-color : #fff;
+    --select-bg: #0000005a;
+    --select-color : #fff;
+}
